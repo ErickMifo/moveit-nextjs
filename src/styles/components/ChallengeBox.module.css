@@ -67,6 +67,11 @@
 
 .challengeActive main p {
   line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.challengeActive main img {
+  height: 4rem;
 }
 
 .challengeActive footer {
