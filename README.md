@@ -6,5 +6,5 @@ Foi usada a dependencia js-cookie para produção e eslint para desenvolvimento;
 
 Para instalar o projeto, apenas use git clone e npm install;
 
-Projeto feito durante o Next Level Weekend da Rocketseat.
+Projeto feito durante o Next Level Week da Rocketseat.
 
